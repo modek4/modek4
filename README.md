@@ -25,15 +25,9 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kacper-grodzki" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/linkedin.svg" alt="Linkedin" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/modek4" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/spotify.svg" alt="Spotify" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/262922595207348224" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/discord.svg" alt="Discord" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/modek4" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/github.svg" alt="Github" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/_modek4" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/twitter.svg" alt="Twitter/X" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kontakt@modek4.com" rel="nofollow"><img width="34" height="34" src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20221017173629%21Gmail_icon_%282020%29.svg" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kacper-grodzki" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kontakt@modek4.com" rel="nofollow"><img height=32 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/modek4" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/54/2024_Spotify_logo_without_text.svg" alt="Spotify" /></a>
 </p>
